@@ -1,4 +1,6 @@
-# co2e249a483fea9d7962b1f29
+# Simple Landing Page
+
+Live view https://landing-page425.netlify.app/
 
 Quick start:
 
